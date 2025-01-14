@@ -1,2 +1,5 @@
 # CSharpGitTests
-Testes com C# no Git
+
+Testes com Git em C#
+
+* Lívia Marianne
